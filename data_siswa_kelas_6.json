@@ -1,0 +1,560 @@
+[
+  {
+    "No": 1,
+    "Nama": "ADELLIA DWI ALEXA",
+    "NISN": "3141969210",
+    "Tempat Lahir": "Tanggamus",
+    "Lahir": "11-01-2014",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 2,
+    "Nama": "ADITIA MULYANA",
+    "NISN": "3134160628",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "30-05-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 3,
+    "Nama": "AFIQAH AZZAHRA",
+    "NISN": "0131458686",
+    "Tempat Lahir": "TANGERANG",
+    "Lahir": "27-05-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 4,
+    "Nama": "AIRIN DESTIA PUTRI",
+    "NISN": "3137345922",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "03-12-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 5,
+    "Nama": "AISYAH NURUL HAFIDA",
+    "NISN": "0136549928",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "20-06-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 6,
+    "Nama": "ALDI SUPRIYADI",
+    "NISN": "3130927435",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "01-08-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 7,
+    "Nama": "ALIKA NUR RAMADANI",
+    "NISN": "0133237567",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "03-08-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 8,
+    "Nama": "ALSYA NURKHOLIFAH",
+    "NISN": "0147971887",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "07-07-2014",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 9,
+    "Nama": "ANJAS HERDIANA",
+    "NISN": "0134767447",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "08-08-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 10,
+    "Nama": "ANNISA FATHIYYATURAHMA",
+    "NISN": "0137863664",
+    "Tempat Lahir": "JAKARTA",
+    "Lahir": "09-04-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 11,
+    "Nama": "APRILIANA",
+    "NISN": "3140666469",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "26-04-2014",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 12,
+    "Nama": "AQILA SALSABILA",
+    "NISN": "0133372385",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "21-11-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 13,
+    "Nama": "BUDI CANDRA WIJAYA",
+    "NISN": "0138110717",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "27-08-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 14,
+    "Nama": "DESI DESWITA SARI",
+    "NISN": "0131677180",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "02-12-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 15,
+    "Nama": "DINI NURCAHYATI",
+    "NISN": "0147937182",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "15-05-2014",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 16,
+    "Nama": "ERLANGGA",
+    "NISN": "0138438516",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "19-03-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 17,
+    "Nama": "EVA WULANDARI",
+    "NISN": "0149713985",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "28-02-2014",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 18,
+    "Nama": "FYINA FUTRI RAMADHANI",
+    "NISN": "3142053895",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "29-06-2014",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 19,
+    "Nama": "IQLIMA ZIYADATULKHOIR",
+    "NISN": "0141870645",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "12-04-2014",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 20,
+    "Nama": "IREN AINI NURHASANAH",
+    "NISN": "0139525205",
+    "Tempat Lahir": "Lebak",
+    "Lahir": "17-05-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 21,
+    "Nama": "IRPAN",
+    "NISN": "0134037989",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "20-09-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 22,
+    "Nama": "LELI NUR AZAHRA",
+    "NISN": "0136615663",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "17-10-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 23,
+    "Nama": "LINA MAULIDIANI",
+    "NISN": "3141799918",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "31-01-2014",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 24,
+    "Nama": "M. RAFI HALIM",
+    "NISN": "3131656842",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "29-06-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 25,
+    "Nama": "MELANI NURHAYATI",
+    "NISN": "3122626385",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "05-05-2012",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 26,
+    "Nama": "MIKA SEFTIA PUTRI",
+    "NISN": "0132532959",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "01-09-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 27,
+    "Nama": "MU'AZZAM ALHIDAYAH",
+    "NISN": "3139686281",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "04-05-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 28,
+    "Nama": "MUHAMAD ALIF ALDAPA",
+    "NISN": "3143808572",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "07-08-2014",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 29,
+    "Nama": "MUHAMAD ALWAHYUBI",
+    "NISN": "0131093030",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "03-06-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 30,
+    "Nama": "MUHAMAD DA FAREL PUTRA",
+    "NISN": "0135227973",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "18-11-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 31,
+    "Nama": "MUHAMAD RIZKI ADITIYA",
+    "NISN": "0139195235",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "21-03-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 32,
+    "Nama": "ANGGA ABDULLAH ALBASHARI",
+    "NISN": "3142019273",
+    "Tempat Lahir": "Lebak",
+    "Lahir": "20-07-2014",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 33,
+    "Nama": "AQILAH LIYANA FILDZAH",
+    "NISN": "3135798211",
+    "Tempat Lahir": "BEKASI",
+    "Lahir": "08-04-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 34,
+    "Nama": "MUHAMAD DIVKA ALGIFARI",
+    "NISN": "0139251631",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "10-06-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 35,
+    "Nama": "MUHAMAD GIBRAN",
+    "NISN": "3131184951",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "07-04-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 36,
+    "Nama": "MUHAMAD REJA RAMADAN",
+    "NISN": "3136831783",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "21-07-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 37,
+    "Nama": "MUHAMMAD AZKA ALFARIQ",
+    "NISN": "0131708578",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "27-08-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 38,
+    "Nama": "MUHAMMAD KHOIRUL ANWAR",
+    "NISN": "0132482361",
+    "Tempat Lahir": "JAKARTA",
+    "Lahir": "11-01-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 39,
+    "Nama": "MUHAMMAD MULQI AL FAZHRI",
+    "NISN": "3135159948",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "01-11-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 40,
+    "Nama": "MUTIARA FAUZIA",
+    "NISN": "3138015203",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "18-10-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 41,
+    "Nama": "NAILA ANANTASA",
+    "NISN": "3131798069",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "28-08-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 42,
+    "Nama": "NIRA ANJALANI",
+    "NISN": "3137977048",
+    "Tempat Lahir": "SUKABUMI",
+    "Lahir": "21-08-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 43,
+    "Nama": "NURI MAULIDA",
+    "NISN": "0131008606",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "22-03-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 44,
+    "Nama": "PAISAL MAULANA",
+    "NISN": "0135737913",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "03-05-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 45,
+    "Nama": "PUTRI SAPIRA",
+    "NISN": "3144027891",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "07-03-2014",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 46,
+    "Nama": "RAHMA SEPTIANI",
+    "NISN": "0133673368",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "09-09-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 47,
+    "Nama": "RAISA ANDRIANI",
+    "NISN": "0145368014",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "13-06-2014",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 48,
+    "Nama": "RAISA PUTRI OKTOPIANI",
+    "NISN": "0133466842",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "02-10-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 49,
+    "Nama": "RENDY ANDREANSYAH",
+    "NISN": "0131271050",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "09-08-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 50,
+    "Nama": "REZA",
+    "NISN": "3133072270",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "21-03-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 51,
+    "Nama": "RIDWAN MAULANA",
+    "NISN": "3138651314",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "09-03-2014",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 52,
+    "Nama": "RINKA OKTAVIANA",
+    "NISN": "3135907928",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "04-10-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 53,
+    "Nama": "RISMAYANI",
+    "NISN": "0134795372",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "24-10-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 54,
+    "Nama": "SADRINA",
+    "NISN": "3149964848",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "07-03-2014",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 55,
+    "Nama": "SAIPUL ILHAM",
+    "NISN": "0131902828",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "14-12-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 56,
+    "Nama": "SALMA AJAHRA",
+    "NISN": "0136353189",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "07-10-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 57,
+    "Nama": "SALSA PUTRI NABILA",
+    "NISN": "0137081552",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "08-01-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 58,
+    "Nama": "SALSABILA",
+    "NISN": "3141925849",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "02-02-2014",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 59,
+    "Nama": "SITI NURHIKMAH",
+    "NISN": "0139199919",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "18-06-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 60,
+    "Nama": "SUHEDLI",
+    "NISN": "0135250392",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "27-09-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 61,
+    "Nama": "SYAHNALA ANDITYA KHANZA",
+    "NISN": "3139173074",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "28-06-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  },
+  {
+    "No": 62,
+    "Nama": "TASYA OKTAPIANI",
+    "NISN": "0133369567",
+    "Tempat Lahir": "LEBAK",
+    "Lahir": "28-10-2013",
+    "Nama Sekolah": "SDN 2 NEGLASARI",
+    "status": "LULUS"
+  }
+]
